@@ -1,1 +1,1 @@
-# LottoVariaciok1.01_Android
+# LottoVariaciok_Android
